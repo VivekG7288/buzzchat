@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/buzzchat/static/css/main.7692d977.css",
+    "main.js": "/buzzchat/static/js/main.42440b29.js",
+    "static/media/bg5.jpg": "/buzzchat/static/media/bg5.d15808b30ecde5eb4e4f.jpg",
+    "static/media/robot.gif": "/buzzchat/static/media/robot.0617a41936621e9697cd.gif",
+    "static/media/bg8.jpg": "/buzzchat/static/media/bg8.ed006e7d2adabb2b7da2.jpg",
+    "static/media/loader.gif": "/buzzchat/static/media/loader.b40fc3d91ff1f4db53e2.gif",
+    "static/media/buzzchat-logo4.png": "/buzzchat/static/media/buzzchat-logo4.7e14a0194a80f1fe65e5.png",
+    "index.html": "/buzzchat/index.html",
+    "main.7692d977.css.map": "/buzzchat/static/css/main.7692d977.css.map",
+    "main.42440b29.js.map": "/buzzchat/static/js/main.42440b29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7692d977.css",
+    "static/js/main.42440b29.js"
+  ]
+}
